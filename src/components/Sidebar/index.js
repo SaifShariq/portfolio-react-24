@@ -5,7 +5,6 @@ import {
   faLinkedin,
   faGithub,
   faYoutube,
-  faSkype,
   faTwitter,
 } from '@fortawesome/free-brands-svg-icons'
 import { faHome, faUser, faEnvelope, faSuitcase } from '@fortawesome/free-solid-svg-icons'
