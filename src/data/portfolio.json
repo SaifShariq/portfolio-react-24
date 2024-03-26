@@ -19,6 +19,12 @@
             "url": "https://facedect.netlify.app/"
         },
         {
+            "cover": "/portfolio/DCO.png",
+            "title": "DCO Marketing Banners",
+            "description":  "HTML, CSS, JavaScript, Google Web Designer",
+            "url": "https://drive.google.com/drive/folders/1CTclwN8TF6Y16HrTIaK8TQOyTLQF1IvR?usp=share_link"
+        },
+        {
             "cover": "/portfolio/infinite_scroll.png",
             "title": "Infinite Scroll (Image Gallery)",
             "description": "JavaScript, CSS, Tailwind, Masonry",
