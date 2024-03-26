@@ -49,34 +49,34 @@
             "url": "https://saifshariq.github.io/github-profiles/"
         },
         {
-            "cover": "/portfolio/quote-generator.png",
-            "title": "Quote Generator",
-            "description": "JavaScript, HTML, CSS",
-            "url": "https://saifshariq.github.io/quote-generator/"
-        },
-        {
-            "cover": "/portfolio/Doggoselect.png",
-            "title": "Doggo Select (A Dog Breed Search App)",
-            "description": "JavaScript, HTML, CSS",
-            "url": "https://saifshariq.github.io/doggo_select/"
-        },
-        {
             "cover": "/portfolio/Coin-collector.png",
             "title": "Coin Collector (An Arcade Game)",
             "description": "JavaScript, HTML, CSS, Phaser.js",
             "url": "https://saifshariq.github.io/coin-collector/"
         },
         {
-            "cover": "/portfolio/robofriends.png",
-            "title": "RoboFriends",
-            "description": "ReactJS, JavaScript/JSX, HTML, CSS",
-            "url": "https://robofriends-rolodex.netlify.app/"
+            "cover": "/portfolio/Doggoselect.png",
+            "title": "Doggo Select (A Dog Breed Search App)",
+            "description": "JavaScript, HTML, CSS",
+            "url": "https://saifshariq.github.io/doggo_select/"
         }, 
+        {
+            "cover": "/portfolio/netflix-landing-page.png",
+            "title": "Netflix Landing Page",
+            "description": "JavaScript (ES5+), HTML, CSS",
+            "url": "https://saifshariq.github.io/netflix-landing-page/"
+        },
         {
             "cover": "/portfolio/jokebot.png",
             "title": "JokeBot (A Joke Telling Robot)",
             "description": "JavaScript, HTML, CSS, VoiceRSS API",
             "url": "https://github.com/SaifShariq/jokebot"
+        },
+        {
+            "cover": "/portfolio/quote-generator.png",
+            "title": "Quote Generator",
+            "description": "JavaScript, HTML, CSS",
+            "url": "https://saifshariq.github.io/quote-generator/"
         },
         {
             "cover": "/portfolio/screencapture.png",
