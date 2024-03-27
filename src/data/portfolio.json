@@ -19,6 +19,12 @@
             "url": "https://facedect.netlify.app/"
         },
         {
+            "cover": "/portfolio/pgd-jobportal.png",
+            "title": "PGD Job Portal",
+            "description": "HTML, CSS, JavaScript, Bootstrap, Masonry, Owl Carousel",
+            "url": "https://saifshariq.github.io/pgd-jobportal/"
+        },
+        {
             "cover": "/portfolio/DCO.png",
             "title": "DCO Marketing Banners",
             "description":  "HTML, CSS, JavaScript, Google Web Designer",
