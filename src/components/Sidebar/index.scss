@@ -143,8 +143,12 @@
     height: auto;
     min-height: auto;
 
-     ul, nav {
+    ul, nav {
       display: none;
+    }
+
+    ul, nav:hover {
+      display: block;
      }
 
      nav {
@@ -185,6 +189,10 @@
         top: 15px;
         right: 15px;
         display: block;
+     }
+
+     .flat-button {
+      z-index: 2;
      }
   }
 }
