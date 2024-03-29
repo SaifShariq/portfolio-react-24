@@ -86,15 +86,16 @@
   .tags,
   .home-page h1:before,
   .home-page h1:after {
-    display: none;
-  }
+     display: none;
+   }
 
   .home-page .text-zone {
     position: initial;
     width: 100%;
     transform: none;
-    padding: 10px;
+    padding: 50% 0;
     box-sizing: border-box;
+    text-align: center;
   }
 
   .home-page .flat-button {

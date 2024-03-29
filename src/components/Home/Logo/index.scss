@@ -18,11 +18,8 @@
   }
 
   .solid-logo {
-    // position: absolute;
-    // top: 0%;
     right: auto;
     bottom: auto;
-    // left: 0;
     margin: auto;
     width: 70vh;
     opacity: 0;
@@ -40,10 +37,13 @@
 }
 
 @media screen and (max-width: 1200px) {
-  .solid-logo {
-    position: absolute;
-    top: 100px;
-    width: 50%;
-    height: 50%;
+  .logo-container {
+    display: none;
+    width: auto;
+    height: auto;
+    top: 50%;
+    right: auto;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 }
