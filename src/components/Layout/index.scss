@@ -119,6 +119,9 @@
     display: none;
   }
 
+  .loader {
+    z-index: -1;
+  }
   .page {
     position: initial;
   }
