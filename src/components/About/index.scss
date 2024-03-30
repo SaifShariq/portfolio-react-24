@@ -79,3 +79,16 @@
     transform: rotateX(90deg);
   }
 }
+
+@media screen and (max-width: 1400px){
+  body {
+    text-align: center
+  };
+
+  .container.about-page h1:before {
+    content: none !important;
+  }
+  .container.about-page h1::after {
+    content: none !important;
+  }
+}

@@ -82,18 +82,37 @@
 
 
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1400px) {
   .tags,
   .home-page h1:before,
   .home-page h1:after {
      display: none;
    }
 
+  .home-page h1 {
+    font-size: 40px;
+  }
+
+  .home-page h1 img {
+    width: 25px;
+    letter-spacing: none;
+  }
+
+  .home-page h2 {
+    font-size: 13px;
+  }
+  
+
+  .flat-button {
+    // position: absolute;
+    top: 500px;
+  }
+
   .home-page .text-zone {
     position: initial;
     width: 100%;
     transform: none;
-    padding: 5rem 0;
+    padding: 15rem 0;
     box-sizing: border-box;
     text-align: center;
   }
@@ -101,7 +120,7 @@
   .home-page .flat-button {
     float: none;
     display: block;
-    margin: 20px auto 0 auto;
+    margin: 60px auto 0 auto;
     width: 124px;
   }
 

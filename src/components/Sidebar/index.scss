@@ -136,19 +136,15 @@
 }
 
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1400px) {
   .nav-bar { 
-    background: none;
+    background: transparent;
     position: initial;
     height: auto;
     min-height: auto;
 
-    ul, nav {
+     ul, nav {
       display: none;
-    }
-
-    ul, nav:hover {
-      display: block;
      }
 
      nav {
@@ -189,10 +185,6 @@
         top: 15px;
         right: 15px;
         display: block;
-     }
-
-     .flat-button {
-      z-index: 2;
      }
   }
 }

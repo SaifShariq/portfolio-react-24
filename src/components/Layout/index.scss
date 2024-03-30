@@ -114,9 +114,9 @@
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1400px) {
   .container.contact-page h1 {
-    display: none;
+    display: none !important;
   }
 
   .loader {
