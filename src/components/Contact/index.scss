@@ -70,6 +70,12 @@
     float: right;
     text-align: center;
     margin-right: 10px;
+    cursor: pointer;
+  }
+
+  .flat-button:hover {
+    background: #ffd700;
+    color: #333;
   }
 }
 
@@ -115,7 +121,7 @@
   }
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
   .map-wrap {
     float: none;
     margin-top: 10%;
