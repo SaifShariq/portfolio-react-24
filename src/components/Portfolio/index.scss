@@ -116,8 +116,11 @@
     .content {
         position: absolute;
         font-size: 8px;
-        padding: 2% 32%!important;
+        padding: 2% 33%;
         width: auto !important;
+        left: 0;
+        right: 0;
+        margin: auto;
     }
 
     .portfolio-page .image-box .portfolio-image {
@@ -130,7 +133,7 @@
             display: flex;
             flex-wrap: wrap;
             justify-content: space-between; 
-            gap: 100px; 
+            gap: 50px; 
             padding: 0;
         }
     }
