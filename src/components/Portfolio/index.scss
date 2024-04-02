@@ -114,7 +114,7 @@
 
 @media screen and (max-width: 1200px) {
     .content {
-        position: absolute;
+        // position: absolute;
         font-size: 8px;
         padding: 2% 33%;
         width: auto !important;
@@ -160,6 +160,37 @@
             &::after {
                 content: none !important; 
             }
+        }
+    }
+}
+
+@media screen and (max-width: 800px){
+    .content {
+        position: absolute;
+        font-size: 8px;
+        padding: 2% 33%;
+        width: auto !important;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+    .portfolio-page {
+        .images-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between; 
+            gap: 20px !important; 
+            padding: 0;
+        }
+
+        .image-box {
+            flex-basis: calc(50% - 10px); // Two elements per row
+            max-width: calc(50% - 10px);   // Two elements per row
+            height: 400px;
+            overflow: hidden;
+            border-radius: 10px;
+            position: relative;
         }
     }
 }
