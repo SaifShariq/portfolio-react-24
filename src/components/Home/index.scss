@@ -104,7 +104,6 @@
   
 
   .flat-button {
-    // position: absolute;
     top: 500px;
   }
 
@@ -136,11 +135,6 @@
   }
   
   .logo-container svg {
-    position: absolute;
-    top: auto;
-    right: auto;
-    bottom: auto;
-    left: 0;
-    margin: auto;
+    display: none;
   }
 }
