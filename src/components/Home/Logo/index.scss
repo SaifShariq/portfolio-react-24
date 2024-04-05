@@ -37,13 +37,17 @@
 }
 
 @media screen and (max-width: 1200px) {
-  .logo-container {
+  .logo-container .solid-logo {
+    // right: auto;
+    // bottom: auto;
+    // margin: auto;
+    // width: 40vh;
+    // opacity: 0;
+    // z-index: 1;
+    // position: fixed;
+    // top: 85%;
+    // left: 50%;
+    // transform: translate(-50%, 0%);
     display: none;
-    width: auto;
-    height: auto;
-    top: 50%;
-    right: auto;
-    left: 50%;
-    transform: translate(-50%, -50%);
   }
 }
