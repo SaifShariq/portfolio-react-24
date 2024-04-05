@@ -26,6 +26,10 @@ $primary-color: #ffd700;
   font-style: normal;
 }
 
+* {
+  user-select: none;
+}
+
 input,
 textarea {
   font-family: 'Helvetica Neue', sans-serif;
