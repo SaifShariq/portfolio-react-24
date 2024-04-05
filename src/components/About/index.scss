@@ -81,7 +81,7 @@
 }
 
 @media screen and (max-width: 1200px){
-  body {
+  .container {
     text-align: center;
   };
 
@@ -92,11 +92,13 @@
     content: none !important;
   }
 
-  .container.contact-page .text-zone, .container.about-page .text-zone, .container.portfolio-page .text-zone {
-    height: 90vh;
-    overflow-y: scroll !important;
-  }
   .stage-cube-cont {
     display: none;
   }
 }
+
+
+// .container.contact-page .text-zone, .container.about-page .text-zone, .container.portfolio-page .text-zone {
+//   height: 90vh;
+//   overflow-y: scroll !important;
+// }
