@@ -6,6 +6,7 @@
     transform: translateY(-50%);
     width: 40%;
     max-height: 90%;
+    overflow: hidden;
   }
 
   h1 {
@@ -112,7 +113,7 @@
     position: initial;
     width: 100%;
     transform: none;
-    padding: 15rem 0;
+    padding: 17rem 0;
     box-sizing: border-box;
     text-align: center;
   }
