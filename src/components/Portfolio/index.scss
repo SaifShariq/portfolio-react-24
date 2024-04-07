@@ -162,6 +162,11 @@
             }
         }
     }
+
+    .container.portfolio-page {
+        height: 100%;
+        overflow-y: scroll;
+    }
 }
 
 @media screen and (max-width: 800px){
@@ -194,8 +199,8 @@
         }
     }
 
-    .container.portfolio-page {
-        height: 90vh;
+    .container.portfolio-page{
+        max-height: 90vh;
         overflow-y: scroll !important;
     }
 }
