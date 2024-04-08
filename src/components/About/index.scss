@@ -95,9 +95,9 @@
   .stage-cube-cont {
     display: none;
   }
+  .container.about-page .text-zone {
+    height: 90vh;
+    overflow-y: scroll !important;
+  }
 }
 
-.container.about-page .text-zone {
-  height: 90vh;
-  overflow-y: scroll !important;
-}
