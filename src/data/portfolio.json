@@ -1,88 +1,88 @@
 {
-    "portfolio": [
-        {
-            "cover": "https://i.ibb.co/Yt9spGc/image.png",
-            "title": "Gymtastic",
-            "description": "ReactJS, Material UI, JSON",
-            "url": "https://gymtastic.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/firebase-superchat.png",
-            "title": "Superchat",
-            "description": "ReactJS, Firebase/Firestore, Protobuf.js",
-            "url": "https://firebase-superchat.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/facedect.png",
-            "title": "FaceDect AI",
-            "description": "ReactJS, Clarifai, Particle.js, SCSS",
-            "url": "https://facedect.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/pgd-jobportal.png",
-            "title": "PGD Job Portal",
-            "description": "HTML, CSS, JavaScript, Bootstrap, Masonry, Owl Carousel",
-            "url": "https://saifshariq.github.io/pgd-jobportal/"
-        },
-        {
-            "cover": "/portfolio/infinite_scroll.png",
-            "title": "Infinite Scroll (Image Gallery)",
-            "description": "JavaScript, CSS, Tailwind, Masonry",
-            "url": "https://saifshariq.github.io/infinite-scroll/"
-        },
-        {
-            "cover": "/portfolio/NASA APOD.png",
-            "title": "NASA APOD (Astronomy Picture Of The Day)",
-            "description": "JavaScript, HTML, CSS, NASA API",
-            "url": "https://saifshariq.github.io/NASA-APOD/"
-        },
-        {
-            "cover": "/portfolio/movies-trend.png",
-            "title": "Movies Trend (Top Trending Movies Right Now)",
-            "description": "HTML, CSS, JavaScript, TheMovieDB",
-            "url": "https://movies-trend-now.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/github-profiles.png",
-            "title": "GitHub Profiles (Search and view public repos for any user)",
-            "description": "HTML, CSS, JavaScript, GitHub API",
-            "url": "https://saifshariq.github.io/github-profiles/"
-        },
-        {
-            "cover": "/portfolio/Coin-collector.png",
-            "title": "Coin Collector (An Arcade Game)",
-            "description": "JavaScript, HTML, CSS, Phaser.js",
-            "url": "https://saifshariq.github.io/coin-collector/"
-        },
-        {
-            "cover": "/portfolio/Doggoselect.png",
-            "title": "Doggo Select (A Dog Breed Search App)",
-            "description": "JavaScript, HTML, CSS",
-            "url": "https://saifshariq.github.io/doggo_select/"
-        }, 
-        {
-            "cover": "/portfolio/netflix-landing-page.png",
-            "title": "Netflix Landing Page",
-            "description": "JavaScript (ES5+), HTML, CSS",
-            "url": "https://saifshariq.github.io/netflix-landing-page/"
-        },
-        {
-            "cover": "/portfolio/jokebot.png",
-            "title": "JokeBot (A Joke Telling Robot)",
-            "description": "JavaScript, HTML, CSS, VoiceRSS API",
-            "url": "https://github.com/SaifShariq/jokebot"
-        },
-        {
-            "cover": "/portfolio/quote-generator.png",
-            "title": "Quote Generator",
-            "description": "JavaScript, HTML, CSS",
-            "url": "https://saifshariq.github.io/quote-generator/"
-        },
-        {
-            "cover": "/portfolio/screencapture.png",
-            "title": "Screen Capture",
-            "description": "JavaScript, HTML, CSS, Screen Capture Web API",
-            "url": "https://github.com/SaifShariq/screen-capture"
-        }
-    ]
+  "portfolio": [
+    {
+      "cover": "https://i.ibb.co/Yt9spGc/image.png",
+      "title": "Gymtastic",
+      "description": "ReactJS, Material UI, JSON",
+      "url": "https://gymtastic.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/firebase-superchat.png",
+      "title": "Superchat",
+      "description": "ReactJS, Firebase/Firestore, Protobuf.js",
+      "url": "https://firebase-superchat.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/facedect.png",
+      "title": "FaceDect AI",
+      "description": "ReactJS, Clarifai, Particle.js, SCSS",
+      "url": "https://facedect.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/pgd-jobportal.png",
+      "title": "PGD Job Portal",
+      "description": "HTML, CSS, JavaScript, Bootstrap, Masonry, Owl Carousel",
+      "url": "https://github.com/SaifShariq/pgd-jobportal"
+    },
+    {
+      "cover": "/portfolio/infinite_scroll.png",
+      "title": "Infinite Scroll (Image Gallery)",
+      "description": "JavaScript, CSS, Tailwind, Masonry",
+      "url": "https://github.com/SaifShariq/infinite-scroll"
+    },
+    {
+      "cover": "/portfolio/NASA APOD.png",
+      "title": "NASA APOD (Astronomy Picture Of The Day)",
+      "description": "JavaScript, HTML, CSS, NASA API",
+      "url": "https://github.com/SaifShariq/NASA-APOD"
+    },
+    {
+      "cover": "/portfolio/movies-trend.png",
+      "title": "Movies Trend (Top Trending Movies Right Now)",
+      "description": "HTML, CSS, JavaScript, TheMovieDB",
+      "url": "https://github.com/SaifShariq/movies-trend"
+    },
+    {
+      "cover": "/portfolio/github-profiles.png",
+      "title": "GitHub Profiles (Search and view public repos for any user)",
+      "description": "HTML, CSS, JavaScript, GitHub API",
+      "url": "https://github.com/SaifShariq/github-profiles"
+    },
+    {
+      "cover": "/portfolio/Coin-collector.png",
+      "title": "Coin Collector (An Arcade Game)",
+      "description": "JavaScript, HTML, CSS, Phaser.js",
+      "url": "https://github.com/SaifShariq/coin-collector"
+    },
+    {
+      "cover": "/portfolio/Doggoselect.png",
+      "title": "Doggo Select (A Dog Breed Search App)",
+      "description": "JavaScript, HTML, CSS",
+      "url": "https://github.com/SaifShariq/doggo_select"
+    },
+    {
+      "cover": "/portfolio/netflix-landing-page.png",
+      "title": "Netflix Landing Page",
+      "description": "JavaScript, HTML, CSS",
+      "url": "https://github.com/SaifShariq/netflix-landing-page"
+    },
+    {
+      "cover": "/portfolio/DCO.png",
+      "title": "DCO Marketing Banners",
+      "description": "JavaScript, HTML, CSS, Google Web Designer",
+      "url": "https://drive.google.com/drive/folders/1CTclwN8TF6Y16HrTIaK8TQOyTLQF1IvR?usp=share_link"
+    },
+    {
+      "cover": "/portfolio/jokebot.png",
+      "title": "JokeBot (A Joke Telling Robot)",
+      "description": "JavaScript, HTML, CSS, VoiceRSS API",
+      "url": "https://github.com/SaifShariq/jokebot"
+    },
+    {
+      "cover": "/portfolio/quote-generator.png",
+      "title": "Quote Generator",
+      "description": "JavaScript, HTML, CSS",
+      "url": "https://github.com/SaifShariq/quote-generator"
+    }
+  ]
 }

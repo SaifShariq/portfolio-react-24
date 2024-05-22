@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import {
+  faBootstrap,
   faCss3,
   faGitAlt,
   faHtml5,
@@ -34,7 +35,7 @@ const About = () => {
           </h1>
           <p>
             Hello There! I'm Saif Shariq, a dedicated frontend developer with a passion for creating seamless digital experiences. 
-            With around 5 years of hands-on experience in the field, I've honed my skills in crafting visually stunning and user-friendly websites and web applications. 
+            With more than 5 years of hands-on experience in the field, I've honed my skills in crafting visually stunning and user-friendly websites and web applications. 
             My journey in frontend development began with a fascination for blending design with code, and since then, I've immersed myself in mastering the intricacies of HTML5, CSS3/Sass, JavaScript (ES6+), React.js, and more.
           </p>
           <p align="LEFT">
@@ -78,7 +79,7 @@ const About = () => {
               <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
             </div>
             <div className="face6">
-              <FontAwesomeIcon icon={faJira} color="#DD0031" />
+              <FontAwesomeIcon icon={faBootstrap} color="#DD0031" />
             </div>
           </div>
         </div>
