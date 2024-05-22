@@ -4,7 +4,6 @@ import {
   faCss3,
   faGitAlt,
   faHtml5,
-  faJira,
   faJsSquare,
   faReact,
 } from '@fortawesome/free-brands-svg-icons'
