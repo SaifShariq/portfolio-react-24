@@ -157,6 +157,7 @@
 
   .text-zone {
     height: 100%;
+    z-index: -1;
   }
 
   .container.contact-page h1:before, .container.about-page h1:before, .container.portfolio-page h1:before {
