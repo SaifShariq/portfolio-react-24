@@ -6,7 +6,7 @@
   margin-left: 0;
   position: absolute;
   right: 0;
-  overflow: hidden;
+  overflow: none;
 }
 
 .cubespinner {
@@ -17,6 +17,7 @@
   transform-style: preserve-3d;
   transform-origin: 100px 100px 0;
   margin-left: calc(50% - 100px);
+  overflow: none;
 
   div {
     position: absolute;
@@ -29,7 +30,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0 0 20px 0px lightyellow;
+    box-shadow: 0 0 20px 0px white;
   }
 
   .face1 {
