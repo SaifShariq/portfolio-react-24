@@ -1,7 +1,13 @@
 {
   "portfolio": [
     {
-      "cover": "https://i.ibb.co/Yt9spGc/image.png",
+      "cover": "/portfolio/dashboard-minimal.png",
+      "title": "Dashboard Minimal",
+      "description": "ReactJS, eCharts, APEXCharts, Bootstrap 5",
+      "url": "https://dashboard-minimal.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/gymtastic.png",
       "title": "Gymtastic",
       "description": "ReactJS, Material UI, JSON",
       "url": "https://gymtastic.netlify.app/"
