@@ -77,18 +77,6 @@
       "title": "DCO Marketing Banners",
       "description": "JavaScript, HTML, CSS, Google Web Designer",
       "url": "https://drive.google.com/drive/folders/1CTclwN8TF6Y16HrTIaK8TQOyTLQF1IvR?usp=share_link"
-    },
-    {
-      "cover": "/portfolio/jokebot.png",
-      "title": "JokeBot (A Joke Telling Robot)",
-      "description": "JavaScript, HTML, CSS, VoiceRSS API",
-      "url": "https://github.com/SaifShariq/jokebot"
-    },
-    {
-      "cover": "/portfolio/quote-generator.png",
-      "title": "Quote Generator",
-      "description": "JavaScript, HTML, CSS",
-      "url": "https://github.com/SaifShariq/quote-generator"
     }
   ]
 }
