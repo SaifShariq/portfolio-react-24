@@ -49,12 +49,6 @@
       "url": "https://github.com/SaifShariq/movies-trend"
     },
     {
-      "cover": "/portfolio/github-profiles.png",
-      "title": "GitHub Profiles (Search and view public repos for any user)",
-      "description": "HTML, CSS, JavaScript, GitHub API",
-      "url": "https://github.com/SaifShariq/github-profiles"
-    },
-    {
       "cover": "/portfolio/Coin-collector.png",
       "title": "Coin Collector (An Arcade Game)",
       "description": "JavaScript, HTML, CSS, Phaser.js",
